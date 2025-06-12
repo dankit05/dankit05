@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ankit kumar singh </p>
+<p align="left">My name is Ankit kumar singh</p>
 
 ###
 
@@ -34,19 +34,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dankit05/dankit05/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dankit05/dankit05/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dankit05/dankit05/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/krankitsingh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=krankitsingh&count=20" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/dankit05/dankit05/output/snake.svg" alt="Snake animation" />
 
 ###
 
