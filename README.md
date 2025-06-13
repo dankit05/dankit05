@@ -34,9 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dankit05/dankit05/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/dankit05/count.svg?"  />
